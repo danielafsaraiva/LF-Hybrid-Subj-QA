@@ -40,4 +40,4 @@ Both stages are combined into the **hybrid quality scale** with Thurstone Case V
 
 ## License
 
-The data are released under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license. If you use them, please cite the paper above.
+The data are released under the MIT License (see `LICENSE`). If you use them, please cite the paper above.
